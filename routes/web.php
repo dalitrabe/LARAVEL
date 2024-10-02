@@ -24,14 +24,14 @@ Route::get('/contact', function () {
 });
 
 // Route::get('/etudiant', function () {
-//     $nom = 'Omar ';
-//     $prenom = 'BOUHDIDA';
+//     $nom = 'trabelsi ';
+//     $prenom = 'mohamed ali';
 //     return view('etudiant', compact('nom', 'prenom')); 
 // });
 
 // Route::get('/etudiant', function () {
-//     $nom = 'Omar ';
-//     $prenom = 'BOUHDIDA';
+//     $nom = 'trabelsi ';
+//     $prenom = 'mohamedali';
 //     return view('etudiant', [
 //         'nom'=>$nom,
 //         'prenom'=>$prenom,
